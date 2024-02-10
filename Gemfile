@@ -68,5 +68,11 @@ group :test do
   # Use system testing [https://guides.rubyonrails.org/testing.html#system-testing]
   gem "capybara"
   gem "selenium-webdriver"
+  # gem 'bootstrap', '5.3.2'
+  # gem "jquery-rails"
+  # gem 'sassc-rails', '~> 2.0'
 
 end
+
+# gem 'webpacker'
+
